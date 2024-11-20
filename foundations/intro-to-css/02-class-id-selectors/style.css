@@ -1,0 +1,21 @@
+/*use class=".odd-numbers*/
+.odd-numbers {
+    background-color: rgb(240, 156, 156);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+/*use id="text"*/
+#text {
+    color: rgb(64, 95, 255);
+    font-size: 36px;
+}
+
+.font24 {
+    font-size: 24px;
+}
+
+#green-text {
+    background-color: rgb(128, 246, 140);
+    font-size: 24px;
+    font-weight: bold;
+}
